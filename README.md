@@ -40,10 +40,14 @@ The analysis follows a structured data analytics pipeline:
 ---
 
 ## Project Structure
+
+```
+.
 ├── 01_data_preparation.pdf
 ├── 02_sql_analysis.pdf
 ├── 03_exploratory_analysis.pdf
 └── 04_final_insights_and_recommendations.pdf
+```
 
 
 ---
